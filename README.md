@@ -234,3 +234,6 @@ This repository serves as the official landing page for Qwant for Chrome. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Qwant for Chrome today!**
+
+---
+**Last updated:** 2026-09-11 00:46:24 UTC
