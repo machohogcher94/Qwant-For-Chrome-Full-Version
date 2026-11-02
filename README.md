@@ -236,4 +236,4 @@ This repository serves as the official landing page for Qwant for Chrome. The so
 **Get the most recent version of Qwant for Chrome today!**
 
 ---
-**Last updated:** 2026-11-02 00:08:49 UTC
+**Last updated:** 2026-11-02 07:04:45 UTC
